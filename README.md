@@ -60,7 +60,7 @@ Here’s what I'm doing:
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/aryanneupane)
+- 💼 [LinkedIn](https://www.linkedin.com/in/aryanneupane/)
 - 🐦 [Twitter/X](https://x.com/AryanNe2060)
 - 📚 [Dev.to](https://dev.to/aryanneupane)
 - 🌱 [Follow my GitHub](https://github.com/aryanneupane)
