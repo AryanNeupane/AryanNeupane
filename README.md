@@ -60,10 +60,10 @@ Here’s what I'm doing:
 
 ## 📬 Let’s Connect
 
-- 💼 [LinkedIn](https://linkedin.com/)
-- 🐦 [Twitter/X](https://twitter.com/)
-- 📚 [Dev.to](https://dev.to/)
-- 🌱 [Follow my GitHub](https://github.com/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/aryanneupane)
+- 🐦 [Twitter/X](https://x.com/AryanNe2060)
+- 📚 [Dev.to](https://dev.to/aryanneupane)
+- 🌱 [Follow my GitHub](https://github.com/aryanneupane)
 
 Thanks for visiting — let’s grow together! 🚀
 
